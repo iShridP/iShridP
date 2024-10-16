@@ -1,3 +1,0 @@
-[console_scripts]
-publisher = week0_tutorials.talker:main
-
