@@ -1,1 +1,8 @@
+<<<<<<< Updated upstream
 this is stashed
+=======
+this is an edit
+i edit again
+
+again editted
+>>>>>>> Stashed changes
